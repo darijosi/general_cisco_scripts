@@ -5,7 +5,7 @@
         CLASSES wtth functons for managing CISCO devices
 ################################################################################
 """
-__author__  = 'Dario Josipović'
+__author__  = 'darijosi'
 __version__ = '0.0.1'
 __license__ = 'free'
 
